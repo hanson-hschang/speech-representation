@@ -1,7 +1,7 @@
 # Speech Rrepresentation
 
 ## Introduction
-This repository give a look on features of speech representation, specifically on visualization. See my [blog](https://medium.com/@hanson.hschang/) for details of what I have done.
+This repository gives a look on features of speech representation, specifically on visualization. See my [blog](https://medium.com/@hanson.hschang/) for details of what I have done.
 
 ## Contents
 - [Spectrum Visualization](https://github.com/hanson-hschang/speech-representation/blob/master/visualization.py)
